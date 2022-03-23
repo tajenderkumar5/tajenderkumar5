@@ -50,7 +50,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=tajenderkumar5&theme=tokyonight&show_icons=true" alt="tajenderkumar5" />
 </p>
 <br><br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnurav9811&theme=radical&show_icons=true" alt="kumarnurav9811" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tajenderkumar5&theme=radical&show_icons=true" alt="tajenderkumar5" /></p>
 <br><br>
 <!---<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" /> --->
 
