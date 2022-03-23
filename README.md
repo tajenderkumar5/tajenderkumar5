@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajenderkumar5&theme=merko" alt="tajenderkumar5" /></a> </p>
 <br>
-<!-- <p align="center"> <a href="https://twitter.com/va" target="blank"><img src="https://img.shields.io/twitter/follow/varun9873?logo=twitter&style=for-the-badge" alt="varun9873" /></a> </p><br>
+<!-- <p align="center"> <a href="https://twitter.com/Tajender_kumar1" target="blank"><img src="https://img.shields.io/twitter/follow/Tajenderkumar?logo=twitter&style=for-the-badge" alt="Tajenderkumar" /></a> </p><br>
  -->
 - 🔭 I’m currently working on **Something great , Will let you know soon....**
 
