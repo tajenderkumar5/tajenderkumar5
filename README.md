@@ -1,4 +1,4 @@
-<span style="backgroundcolor:Black;">
+<body >
 <br>
 <a href="#"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
@@ -55,4 +55,4 @@
 <!---<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" /> --->
 
 <img src="https://imgur.com/rilHVxA.png"/>
-  </span>
+</body>
